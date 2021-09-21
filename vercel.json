@@ -1,10 +1,7 @@
 {
   "functions": {
-    "de/**": {
-      "includeFiles": "public/locales/de/**"
-    },
-    "en/**": {
-      "includeFiles": "public/locales/en/**"
+    "**": {
+      "includeFiles": "public/locales/**"
     }
   }
 }
