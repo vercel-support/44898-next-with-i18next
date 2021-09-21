@@ -1,9 +1,9 @@
 {
   "functions": {
-    "de/*": {
+    "de/**": {
       "includeFiles": "public/locales/de/**"
     },
-    "en/*": {
+    "en/**": {
       "includeFiles": "public/locales/en/**"
     }
   }
