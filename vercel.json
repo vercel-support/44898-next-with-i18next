@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "de/*": {
+      "includeFiles": "public/locales/de/**"
+    },
+    "en/*": {
+      "includeFiles": "public/locales/en/**"
+    }
+  }
+}
